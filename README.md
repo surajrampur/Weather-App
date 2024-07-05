@@ -1,4 +1,4 @@
-# WEATHER-APP-API [Live_Demo](https://99dino.github.io/weather-app-api/)
+# WEATHER-APP-API [Live_Demo](https://surajrampur.github.io/Weather-App/)
 
 This project was created using open-weather API.
 It is a single website build with HTML, CSS, BOOTSTRAP AND JAVASCRIPT.
